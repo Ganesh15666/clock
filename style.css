@@ -1,3 +1,8 @@
+body{
+    background-color: black;
+}
+
+
 *{
  pad: 0px;
 	margin: 0px;
@@ -155,6 +160,7 @@
 .div1{
     margin-left: 390px;
     background-color: white;
+    margin-right: 90px;
     
 
 }
@@ -167,8 +173,9 @@
     font-weight: bolder;
     color: darkred;
 font-family: fantasy;
+border :2px solid cyan;
     
 }
 .divorg{
-    background-color: hotpink;
+    
 }
